@@ -48,6 +48,7 @@ class EstudianteController extends Controller
                 "usuarios" => [
 <<<<<<< HEAD
                     "Luis Mpran",
+                    "Pedro "
 =======
                     "Luis Mora",
 >>>>>>> 18994afe5632079c025d11511e02dc52feb3fce1
