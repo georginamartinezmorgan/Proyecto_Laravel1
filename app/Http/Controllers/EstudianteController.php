@@ -29,7 +29,11 @@ class EstudianteController extends Controller
         return view("EjemplosVistas/usuario")
             ->with([
                 "usuarios" => [
+<<<<<<< HEAD
                     "Luis Moran",
+=======
+                    "Luis Mora ",
+>>>>>>> 18994afe5632079c025d11511e02dc52feb3fce1
                     "Maggie",
                     "Raúl"
                 ],
@@ -42,7 +46,11 @@ class EstudianteController extends Controller
         return view("EjemplosVistas/Titulo")
             ->with([
                 "usuarios" => [
+<<<<<<< HEAD
                     "Luis Mpran",
+=======
+                    "Luis Mora",
+>>>>>>> 18994afe5632079c025d11511e02dc52feb3fce1
                     "Maggie",
                     "Raúl"
                 ],
