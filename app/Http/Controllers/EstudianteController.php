@@ -29,7 +29,7 @@ class EstudianteController extends Controller
         return view("EjemplosVistas/usuario")
             ->with([
                 "usuarios" => [
-                    "Luis",
+                    "Luis Mora ",
                     "Maggie",
                     "Raúl"
                 ],
@@ -42,7 +42,7 @@ class EstudianteController extends Controller
         return view("EjemplosVistas/Titulo")
             ->with([
                 "usuarios" => [
-                    "Luis",
+                    "Luis Mora",
                     "Maggie",
                     "Raúl"
                 ],
