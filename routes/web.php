@@ -19,7 +19,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('litros',function(){
     return "Buenos dias a todos";
 });
-
+/* 
 Route ::get('/autos','AutoController@indice');
 
 Route::get('/autos/{placa}',function(){
@@ -50,6 +50,6 @@ Route:: get('/',function(){
         "titulo" => "Paciente"
     ]);;
 
-});
+}); */
 
 
