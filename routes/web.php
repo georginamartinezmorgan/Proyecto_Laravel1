@@ -17,7 +17,7 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::get('litros',function(){
-    return "Buenos Dias";
+    return "Buenos dias a todos";
 });
 
 Route ::get('/autos','AutoController@indice');
@@ -45,9 +45,9 @@ Route:: get('/',function(){
         "enfermos" => [
             "El Paraiso",
             "Moroceli",
-            "Danli"
+            "Danli","el pescadero el centro"
         ],
-        "titulo" => "Enfermo"
+        "titulo" => "Paciente"
     ]);;
 
 });
