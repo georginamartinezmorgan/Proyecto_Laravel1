@@ -45,7 +45,7 @@ Route:: get('/',function(){
         "enfermos" => [
             "El Paraiso",
             "Moroceli",
-            "Danli"
+            "Danli","el pescadero"
         ],
         "titulo" => "Enfermo"
     ]);;
