@@ -47,7 +47,7 @@ Route:: get('/',function(){
             "Moroceli",
             "Danli","el pescadero el centro"
         ],
-        "titulo" => "Enfermo"
+        "titulo" => "Paciente"
     ]);;
 
 });
