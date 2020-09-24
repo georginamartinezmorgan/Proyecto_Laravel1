@@ -15,10 +15,12 @@ use Illuminate\Support\Facades\Route;
 
 
 
-
-Route::get('litros',function(){
-    return "Buenos dias a todos";
+Route::get('/', function () {
+    return view('welcome');
 });
+/* Route::get('litros',function(){
+    return "Buenos dias a todos";
+}); */
 /* 
 Route ::get('/autos','AutoController@indice');
 
