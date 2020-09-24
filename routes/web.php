@@ -17,7 +17,7 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::get('litros',function(){
-    return "Buenos dias chicas";
+    return "Buenos dias a todos";
 });
 
 Route ::get('/autos','AutoController@indice');
