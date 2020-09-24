@@ -83,6 +83,9 @@
                 <div class="title m-b-md">
                     Laravel probando
                 </div>
+                <div class="acos">
+                    Hola Jovenes Ilustres
+                </div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
